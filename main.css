@@ -1,0 +1,60 @@
+body{
+	
+}
+.paralax{
+	background-image: url("https://images.wallpaperscraft.com/image/macbook_apple_keys_161213_3840x2400.jpg");
+	min-height: 250px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.navbar{
+	z-index: 1;
+	
+}
+.navbar img{
+	width: 15rem;
+}
+nav .nav-inner .nav-link	 {
+	padding-top: 1px;
+	font-size: 1.5rem;
+	justify-content: center;
+}
+.nav .nav-logo .nav-link img{
+	width: 4rem;
+	
+}
+.nav a.mPS2id-highlight{
+background: green;
+}
+#collapseElements{
+display: flex;
+}
+.carousel{
+	height:40%; 
+	z-index: 0;
+}
+.carousel-items img{
+	height: 200px;
+}
+.section-about{
+	padding-top: 18px;
+}
+.section-about .container p{
+	padding-top: 15px;
+}
+.row ul{
+	display: flex;
+}
+.top{
+	display: block;
+	width: 40px;
+	height: 40px;
+	background: ;
+	position: fixed;
+	bottom: 20px;
+	right: 30px;
+	line-height: 30px;
+}
+
